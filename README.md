@@ -4,6 +4,7 @@
 [GitHub:](https://github.com/RMIT-Dynamos/RMIT-Dynamos)
 
 [Facebook:](https://www.facebook.com/Marty-My-Health-Helper-453375565413556/?modal=admin_todo_tour)
+
 [Dynamos Team Activity Log: ](https://bit.ly/2HzTOuz)
 
 # Team Profile
