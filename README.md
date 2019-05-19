@@ -105,7 +105,8 @@ Steve and Marty are both more focused on technical IT roles, with Steve leaning 
 Even though there are shared traits between team members, each person’s career path is different and provides an insight into where one degree can lead to so many different paths.
 
 ---
-##Feedback:
+
+## Feedback:
 Reviewing everyone’s comments on the group reflection makes it clear that the team performed well as a whole, although there was still room for improvement in certain areas. Overall, the communication between each team member through the Discord chat was a great asset to the team’s success. If one thing could be highlighted as the reason for a successful team project, it would be the communication each member was willing to contribute. Between Discord and Microsoft Teams, all group members could stay in contact and share work easily.
 
 Another key area that was important to success was delegating the tasks in a manner which worked to each team member’s strengths. Steve and Marty’s technical knowledge in IT was essential in researching and documenting the way our project would be constructed, while James and Karla were able to offer overall project management and presentation skills in the preparation of the report. All team members were able to bring their own ideas to the project about how it should be presented and tackled, with the strong communication we all had playing a part in making final decisions.
