@@ -9,12 +9,11 @@
 # Team Profile
 ## Members:
 #### Website & Team Profile:  by Steve Davies and James Phelan
-| Group Members: | Links 
-|---|---
-| James Phelan |[Student ID: s3795086](https://j-phelan.github.io)
-| Karla McLachlan|[Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
-|Marty Misomikes|[Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
-| Steve Davies|[Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
+Group Members:
+James Phelan [Student ID: s3795086](https://j-phelan.github.io)
+Karla McLachlan [Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
+Marty Misomikes [Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
+Steve Davies [Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
 ---
 
 # Updated: Assignment 3:
@@ -109,6 +108,7 @@ Even though there are shared traits between team members, each person’s career
 #### Team Dynamics: [Please refer to RMIT-Dynamos Report](https://teams.microsoft.com/l/file/D3537DD0-A023-4EB7-99E2-2819E742EDD6?tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b&fileType=docx&objectUrl=https%3A%2F%2Frmiteduau.sharepoint.com%2Fsites%2FGRP-AssignmentGroup16%2FShared%20Documents%2FGeneral%2FAssignment3%2FAssignment%203%20report%20.docx&baseUrl=https%3A%2F%2Frmiteduau.sharepoint.com%2Fsites%2FGRP-AssignmentGroup16&serviceName=teams&threadId=19:32b839b9a8aa4da4a75e5c71f7ee86a3@thread.skype&groupId=819abe0a-10d5-4c6a-9c10-d11deb88b879)
 
 [Dynamos Team Activity Log:](https://bit.ly/2HzTOuz)
+
 [Facebook:](https://www.facebook.com/Marty-My-Health-Helper-453375565413556/?modal=admin_todo_tour)
 
 ---
