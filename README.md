@@ -105,6 +105,15 @@ Steve and Marty are both more focused on technical IT roles, with Steve leaning 
 Even though there are shared traits between team members, each person’s career path is different and provides an insight into where one degree can lead to so many different paths.
 
 ---
+##Feedback:
+Reviewing everyone’s comments on the group reflection makes it clear that the team performed well as a whole, although there was still room for improvement in certain areas. Overall, the communication between each team member through the Discord chat was a great asset to the team’s success. If one thing could be highlighted as the reason for a successful team project, it would be the communication each member was willing to contribute. Between Discord and Microsoft Teams, all group members could stay in contact and share work easily.
+
+Another key area that was important to success was delegating the tasks in a manner which worked to each team member’s strengths. Steve and Marty’s technical knowledge in IT was essential in researching and documenting the way our project would be constructed, while James and Karla were able to offer overall project management and presentation skills in the preparation of the report. All team members were able to bring their own ideas to the project about how it should be presented and tackled, with the strong communication we all had playing a part in making final decisions.
+Areas that could have used work were our scheduling and commitment to task deadlines. Some issues had arisen throughout the project with all team members having commitments outside of this unit, all at different times. The staggered commitments made working on the project as a group, all at once, quite difficult. Each team member had input on the assessment; however the input was presented at different stages of the project’s development, some team members contributing more at the start, others contributing more at the end. A solution to this would have been a stricter schedule that each member could commit to at the start of the assessment.
+
+As a summary, each team member would gladly be assigned the same group if given the opportunity again. The commitment from each person to contribute towards a common goal was outstanding and made for a relatively stress-free learning experience. We as a team, are very proud of the work that has been produced, and the collaboration skills gained from this assessment and other group tasks, will be valuable moving forward in other studies and work experiences later down the track
+
+---
 
 ### [Group Project Links:](https://github.com/RMIT-Dynamos/RMIT-Dynamos)
 
