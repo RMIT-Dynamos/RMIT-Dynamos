@@ -23,10 +23,15 @@ Steve Davies [Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
 
 # Updated: Assignment 3:
 ## Team Tools
+
 [RMIT Dynamos Webpage links:](https://rmit-dynamos.github.io/RMIT-Dynamos/)
+
 [RMIT Dynamos Github:](https://github.com/RMIT-Dynamos/RMIT-Dynamos)
+
 [RMIT Dynamos TEAMS Project link](https://teams.microsoft.com/_#/files/General?threadId=19%3A32b839b9a8aa4da4a75e5c71f7ee86a3%40thread.skype&ctx=channel&context=Assignment3)
+
 Dynamos Team Activity Log:  [RMIT-Dynamos TEAMS Project logs](https://teams.microsoft.com/l/file/057AFA60-7F6E-4AA5-B382-2BDE3BD90015?tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b&fileType=docx&objectUrl=https%3A%2F%2Frmiteduau.sharepoint.com%2Fsites%2FGRP-AssignmentGroup16%2FShared%20Documents%2FGeneral%2FAssignment3%2FRMIT-Dynamos%20Introduction%20to%20IT%20-Assignment%20Group%202%20Assignment3%20Logs.docx&baseUrl=https%3A%2F%2Frmiteduau.sharepoint.com%2Fsites%2FGRP-AssignmentGroup16&serviceName=teams&threadId=19:32b839b9a8aa4da4a75e5c71f7ee86a3@thread.skype&groupId=819abe0a-10d5-4c6a-9c10-d11deb88b879)
+
 
 The team members where allocated sections of the assignment that reflected their corresponding skill sets. This was to enhance the overall successfulness of the project.
 The open and consistent communication within the group was done via Discord on a weekly basis. All documentation sharing and group editing was conducted using Microsoft Teams. The GitHub website has continued from the previous project of assignment 2, to which you can follow the link above to view the Team website.
